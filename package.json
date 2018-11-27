@@ -1,0 +1,31 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "js",
+    "start": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s12he/webpack-demo.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "S12he",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s12he/webpack-demo/issues"
+  },
+  "homepage": "https://github.com/s12he/webpack-demo#readme",
+  "devDependencies": {
+    "css-loader": "^1.0.1",
+    "html-webpack-plugin": "^3.2.0",
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.26.1"
+  }
+}
